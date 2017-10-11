@@ -15,7 +15,7 @@ font-family: 'Short Stack', cursive;
     text-transform: uppercase;
 }
 
-#slogan {
+.slogan {
   font-family: 'Short Stack', cursive;
 font-size: 20px;
 font-weight: bold;
