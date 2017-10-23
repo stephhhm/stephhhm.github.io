@@ -1,0 +1,95 @@
+
+@import url('https://fonts.googleapis.com/css?family=Short+Stack|Montserrat:300');
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article { 
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+body {
+  text-align: center;
+font-family: Helvetica;
+background-image: url(../images/marblebg.jpg);
+background-size: cover;
+	
+}
+
+h1 {
+font-family: 'Short Stack', cursive;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.slogan {
+  font-family: 'Short Stack', cursive;
+font-size: 20px;
+font-weight: bold;
+color: #1e4fb3;
+
+}
+
+#passion {
+  font-size: 16px;
+  font-weight: bold;
+
+}
+
+p {
+  line-height: 2em;
+  font-size: 15px;
+margin: 15px;
+}
+
+
+hr {	
+  width: 800px;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: inline;
+   padding: 45px;
+}
+
+
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #000;
+
+}
